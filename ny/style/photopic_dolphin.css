@@ -1,0 +1,43 @@
+/* ============Í¼Æ¬ÁÐ±í============== */
+div .photopic_dolphin{
+	border:0px #ebebeb solid;
+	padding:0px 0px 5px 0px;
+}
+
+div#demo{
+	overflow:hidden;
+	width:665px;
+	color:#ff0000;
+}
+
+div.photopic_dolphin div.fang{
+border:0px #dedede solid;
+background: #fff;
+padding:0px;
+margin:0 19px 0 0;
+text-align:center;
+}
+
+div.photopic_dolphin div.picFit{
+overflow: hidden;
+}
+
+
+div.photopic_dolphin div.title{
+text-align:center;
+overflow: hidden;
+white-space:nowrap;
+}
+
+div.photopic_dolphin a:link,div.photopic_dolphin a:visited,div.photopic_dolphin a:active{
+color:#505050;
+font:12px/25px arial,simsun;
+text-decoration: none;
+}
+
+div.photopic_dolphin a:hover{
+color:#ff0000;
+text-decoration: underline;
+font:12px/25px arial,simsun;
+}
+
