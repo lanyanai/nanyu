@@ -1,4 +1,5 @@
-/* ============ÈİÆ÷============== */
+/* ============å®¹å™¨============== */
+div, img, a{ border:none; margin: 0; padding: 0;}
 body{margin:0;padding:0;border:0;height:100%;text-align:left} 
 #contain{position: relative;height:100%;padding:10px;margin:10px auto;border:0;}
 #content {position:relative;margin:10px auto 10px auto} 
@@ -7,12 +8,12 @@ body{margin:0;padding:0;border:0;height:100%;text-align:left}
 #bodyex {position: absolute;left:0;top:0px;margin:0} 
 
 
-/*===²å¼ş·ÖÀë²ã===*/
+/*===æ’ä»¶åˆ†ç¦»å±‚===*/
 
 .pdv_class{position:absolute;border:0px}
 
 
-/* ==³£ÓÃ== */
+/* ==å¸¸ç”¨== */
 
 div,li,td,p,select,input,textarea,a,button,input{font:12px Verdana, Arial, Helvetica, sans-serif;color:#505050;text-decoration: none}
 ul{margin:0px;padding:0px;}
@@ -20,7 +21,7 @@ a:link,a:visited,a:active{color:#505050;text-decoration: none;}
 a.nomal:link,a.nomal:visited,a.nomal:active{color:#505050;text-decoration: underline;}
 a:hover{color:#ff0000;text-decoration: underline;}
 
-/* ============±íµ¥============== */
+/* ============è¡¨å•============== */
 form{margin:0;padding:0}
 .input{border:1px #ddd solid;height:20px;line-height:20px;padding:0px 3px;color:#555;background:#f7f7f7}
 .textarea{border:1px #ddd solid;font-size:12px;padding:3px;background:#f7f7f7}
@@ -30,7 +31,7 @@ form{margin:0;padding:0}
 select{font:12px Verdana, Arial, Helvetica, sans-serif;color:#505050;}
 
 
-/* ==ÌáÊ¾ÑùÊ½== */
+/* ==æç¤ºæ ·å¼== */
 
 .msgdiv {color:#336699;padding-left:53px;background:url(../images/chk_msg.gif) 30px no-repeat;}
 .errdiv {color:#FF0000;padding-left:53px;background:url(../images/chk_error.gif) 30px no-repeat;}
@@ -40,7 +41,7 @@ select{font:12px Verdana, Arial, Helvetica, sans-serif;color:#505050;}
 .securenotice{line-height:100px;color:#FF0000;text-align:center;}
 
 
-/* ============ÌáÊ¾ĞÅÏ¢´°¿Ú============== */
+/* ============æç¤ºä¿¡æ¯çª—å£============== */
 div#alert {display:none;cursor:default;}
 div#alert .border{border:1px #97A0AA solid;}
 div#alert .ntc{padding:30px;text-align:left;background:#fff;font: 14px/1.6 Verdana, Arial, Helvetica, sans-serif;}
@@ -50,7 +51,7 @@ div#alert .topBar .pwClose{position: absolute;top:0px;right:8px;width:45px;heigh
 div#alert .button{border:1px #97A0AA solid;height:22px;line-height:20px;padding:0px 5px;background:#eee}
 
 
-/* ============µ¯³öframe/»ò´ó´°¿Ú²ã============== */
+/* ============å¼¹å‡ºframe/æˆ–å¤§çª—å£å±‚============== */
 #frmWindow {display:none;cursor:default;}
 #frmWindow .border{border:1px #97A0AA solid;}
 #frmWindow .ntc{padding:30px;text-align:left;background:#fff;font: 12px/1.6 Verdana, Arial, Helvetica, sans-serif;}
